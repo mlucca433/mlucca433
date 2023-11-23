@@ -3,11 +3,11 @@
 The #1 Zebra fact website in the world!
 
 # color:
-    textColor: "#F5F5F5"
-    secondaryTextColor: "#F5F5F5"
-    backgroundColor: "#313552"
-    primaryColor: "#F1E0AC"
-    secondaryColor: "#30475E"
+   # textColor: "#F5F5F5"
+   # secondaryTextColor: "#F5F5F5"
+   # backgroundColor: "#313552"
+   # primaryColor: "#F1E0AC"
+   # secondaryColor: "#30475E"
     
 - Example Site: [hugo-profile.netlify.app](https://hugo-profile.netlify.app)
 
