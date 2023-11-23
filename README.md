@@ -2,19 +2,11 @@
 
 The #1 Zebra fact website in the world!
 
-```json
-   // code for coloring
-```
+
+
 ```html
    // code for coloring
-```
-```js
-   // code for coloring
-```
-```css
-   // code for coloring
-```
-// etc.
+
 - Example Site: [hugo-profile.netlify.app](https://hugo-profile.netlify.app)
 
 # Features
