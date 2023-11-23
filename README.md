@@ -2,10 +2,9 @@
 
 The #1 Zebra fact website in the world!
 
-
-
 ```html
    // code for coloring
+```
 
 - Example Site: [hugo-profile.netlify.app](https://hugo-profile.netlify.app)
 
