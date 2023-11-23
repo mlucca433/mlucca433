@@ -2,7 +2,7 @@
 
 The #1 Zebra fact website in the world!
 
-#color:
+# color:
     textColor: "#F5F5F5"
     secondaryTextColor: "#F5F5F5"
     backgroundColor: "#313552"
